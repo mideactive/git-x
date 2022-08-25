@@ -1,2 +1,1 @@
-# git-x
-Pratical git
+Readme now!
